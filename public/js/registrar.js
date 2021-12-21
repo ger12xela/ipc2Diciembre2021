@@ -1,3 +1,5 @@
+console.log("contraseña " + password2.value)
+
 function registrar() {
     let nombre = document.getElementById("nombre");
     let correo = document.getElementById("correo")

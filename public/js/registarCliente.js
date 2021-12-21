@@ -13,3 +13,4 @@ function registrarCliente() {
 
 
 }
+console.log("hola como estoy")
