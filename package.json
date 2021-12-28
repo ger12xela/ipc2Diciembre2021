@@ -4,9 +4,9 @@
     "description": "ejemplo server",
     "main": "index.js",
     "scripts": {
-        "start": "node ./API/index.js",
-        "dev": "nodemon ./API/index.js"
+        "start": "nodemon ./API/index.js"
     },
+
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ger12xela/ipc2Diciembre2021.git"
